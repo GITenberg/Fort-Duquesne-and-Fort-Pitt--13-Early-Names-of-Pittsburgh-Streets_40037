@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40383'
     url: http://www.gutenberg.org/2009/agents/40383
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40037#Fort-Duquesne-and-Fort-Pitt--13-Early-Names-of-Pittsburgh-Streets
 edition_note: Sixth Edition
 gutenberg_issued: '2012-06-18'
 gutenberg_type: Text
